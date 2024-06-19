@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("this file killed your project workbook");
+    printf("this file killed your projects workbook");
     return 0;
 }
